@@ -1,0 +1,10 @@
+{
+	"Strategic Ploys":[]
+	"Tactical Ploys":[
+		{
+			"title": "COMMAND RE-ROLL"
+			"cost": "1CP"
+			"description" : "Use this Tactical Ploy after rolling one of your attack dice or defence dice. You can re-roll that dice"
+		}
+	]
+}
